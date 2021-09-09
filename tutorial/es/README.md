@@ -22,6 +22,8 @@
   * [20. Requests condicionales](#20-requests-condicionales)
   * [21. Contenido estático y dinámico](#21-contenido-estatico-y-dinamico)
 
+> Ejemplos: https://reqres.in/
+
 > 🏁 Antes de empezar: ¿qué es una arquitectura cliente-servidor? ¿cómo funciona?
 >
 > 🏁 Antes de empezar: ¿qué es un cliente? ¿y un servidor? ¿Cuál es el cliente por antomasia de la Web?
